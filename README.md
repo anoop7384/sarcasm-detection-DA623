@@ -18,7 +18,7 @@ Sarcasm is a nuanced form of expression that often requires visual and contextua
 
 ```bash
 git clone https://github.com/anoop7384/sarcasm-detection.git
-cd multimodal-sarcasm
+cd sarcasm-detection
 ````
 
 ### 2. Install Dependencies
